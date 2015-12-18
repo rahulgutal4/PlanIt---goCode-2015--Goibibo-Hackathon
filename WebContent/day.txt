@@ -1,0 +1,41 @@
+<div class = "days" id="wb_Shape2" style="position:absolute;left:%spx;top:%spx;width:161px;height:337px;filter:alpha(opacity=30);-moz-opacity:0.30;opacity:0.30;z-index:7;">
+<a href=""><img class="hover" src="../images/img0002_hover.png" alt="" style="border-width:0;width:161px;height:337px;"><span><img src="../images/img0002.png" id="Shape2" alt="" style="border-width:0;width:161px;height:337px;"></span></a></div>
+<div class = "day" id="wb_Text7" style="position:absolute;left:%spx;top:%spx;width:67px;height:16px;z-index:11;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Day %s</span></div>
+<div class = "place" id="wb_Text8" style="position:absolute;left:%spx;top:%spx;width:139px;height:16px;z-index:12;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Place : %s</span></div>
+<div class = "hotel" id="wb_Text9" style="position:absolute;left:%spx;top:%spx;width:144px;height:16px;z-index:13;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Hotel : %s</span></div>
+<div class = "hotelCharges" id="wb_Text10" style="position:absolute;left:%spx;top:%spx;width:140px;height:16px;z-index:14;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Hotel Charges : %s</span></div>
+<div class = "placeToVisit" id="wb_Text11" style="position:absolute;left:%spx;top:%spx;width:141px;height:16px;z-index:15;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Places visited Nearby :</span></div>
+<div class = "specialAttr" id="wb_Text12" style="position:absolute;left:%spx;top:%spx;width:127px;height:16px;z-index:16;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Special attractions :</span></div>
+<div class = "anyComments" id="wb_Text14" style="position:absolute;left:%spx;top:%spx;width:127px;height:16px;z-index:17;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Any comments :</span></div>
+<textarea class = "placeBox" name="TextArea1" id="TextArea1" style="position:absolute;left:%spx;top:%spx;width:138px;height:53px;z-index:24;" rows="2" cols="17" readonly="readonly">%s</textarea>
+<textarea class = "attrBox" name="TextArea1" id="TextArea2" style="position:absolute;left:%spx;top:%spx;width:138px;height:53px;z-index:25;" rows="2" cols="17" readonly="readonly">%s</textarea>
+<textarea class = "commentBox" name="TextArea1" id="TextArea3" style="position:absolute;left:%spx;top:%spx;width:138px;height:53px;z-index:26;" rows="2" cols="17" readonly="readonly">%s</textarea>
+
+<div id="wb_Form%s" style="position:absolute;left:%spx;top:%spx;width:359px;height:290px;z-index:52;">
+<form name="Form%s" method="post" action="mailto:yourname@yourdomain.com" enctype="text/plain" id="Form%s">
+<table border="0" cellpadding="0" cellspacing="3">
+<tr>
+    <td colspan="2">
+        <div id="distance%s">
+        </div>
+    </td>
+</tr>
+<tr>
+    <td>
+        <div id="map%s" style="width: 300px; height: 300px">
+        </div>
+    </td>
+</tr>
+</table>
+</form>
+</div>
+
+
+

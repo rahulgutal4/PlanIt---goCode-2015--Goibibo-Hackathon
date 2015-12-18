@@ -1,0 +1,269 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Build Itinerary</title>
+<meta name="generator" content="">
+<style type="text/css">
+body
+{
+   margin: 0;
+   padding: 0;
+   background-color: #DCDCDC;
+   color: #000000;
+}
+</style>
+<style type="text/css">
+
+.dayBack a img
+{
+   position: absolute;
+}
+.dayBack span
+{
+   position: absolute;
+}
+.dayBack a .hover
+{
+   visibility: hidden;
+}
+.dayBack a:hover .hover
+{
+   visibility: visible;
+}
+.dayBack a:hover span
+{
+   visibility: hidden;
+}
+
+.dayPlace 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.dayPlace div
+{
+   text-align: left;
+}
+
+.dayPlaceBox
+{
+   border: 1px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   vertical-align: middle;
+}
+
+.hotel
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.hotel div
+{
+   text-align: left;
+}
+
+.bookHotel 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.bookHotel div
+{
+   text-align: left;
+}
+
+.bookOtherHotel
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.bookOtherHotel div
+{
+   text-align: left;
+}
+
+.ticketBack a img
+{
+   position: absolute;
+}
+.ticketBack span
+{
+   position: absolute;
+}
+.ticketBack a .hover
+{
+   visibility: hidden;
+}
+.ticketBack a:hover .hover
+{
+   visibility: visible;
+}
+.ticketBack a:hover span
+{
+   visibility: hidden;
+}
+
+.ticketText
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.ticketText div
+{
+   text-align: left;
+}
+
+.ticketBook 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.ticketBook div
+{
+   text-align: left;
+}
+
+.NavigationBar1 ul.navbar
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+.NavigationBar1 ul.navbar li
+{
+   height: 25px;
+   float: left;
+   margin: 0px 6px 0px 0px;
+}
+.NavigationBar1 ul.navbar li a
+{
+   display: block;
+   position: relative;
+}
+.NavigationBar1 ul.navbar li a img
+{
+   position: absolute;
+   z-index: 1;
+   border-width: 0px;
+}
+.NavigationBar1 ul.navbar li span
+{
+   display: block;
+   height: 25px;
+   position: absolute;
+   z-index: 2;
+}
+
+.NavigationBar1_item0 { width: 73px; }
+.NavigationBar1_item1 { width: 130px; }
+.NavigationBar1_item2 { width: 146px; }
+.NavigationBar1_item3 { width: 138px; }
+.NavigationBar1 a .hover
+{
+   visibility: hidden;
+}
+.NavigationBar1 a:hover .hover
+{
+   visibility: visible;
+}
+.NavigationBar1 a:hover span
+{
+   visibility: hidden;
+}
+
+.wb_Text2 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.wb_Text2 div
+{
+   text-align: left;
+}
+
+.SlideShow1 .image
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+}
+.SlideShow1 .caption
+{
+   margin: 0;
+   padding: 0;
+   z-index: 10;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 40px;
+   overflow: hidden;
+}
+.SlideShow1 .caption_background
+{
+   background-color: #F0FFF0;
+   filter: alpha(opacity=60);
+   -moz-opacity: 0.60;
+   opacity: 0.60;
+   position: absolute;
+   bottom: 0;
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+}
+.SlideShow1 .caption_text
+{
+   margin: 4px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 19px;
+   text-align: center;
+}
+
+
+</style>
+<script type="text/javascript" src="jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="jquery.ui.effect.min.js"></script>
+<script type="text/javascript" src="jquery.ui.effect-blind.min.js"></script>
+<script type="text/javascript" src="jquery.ui.effect-bounce.min.js"></script>
+<script type="text/javascript" src="jquery.ui.effect-clip.min.js"></script>
+<script type="text/javascript" src="jquery.ui.effect-drop.min.js"></script>
+<script type="text/javascript" src="jquery.ui.effect-fade.min.js"></script>
+<script type="text/javascript" src="jquery.ui.effect-fold.min.js"></script>
+<script type="text/javascript" src="jquery.ui.effect-scale.min.js"></script>
+<script type="text/javascript" src="jquery.ui.effect-slide.min.js"></script>
+<script type="text/javascript" src="wb.slideshow.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function()
+{
+   $("#SlideShow1").slideshow(
+   {
+      interval: 6000,
+      type: 'sequence',
+      effect: 'drop',
+      direction: 'left',
+      effectlength: 2000
+   });
+});
+</script>
+</head>
+<body>

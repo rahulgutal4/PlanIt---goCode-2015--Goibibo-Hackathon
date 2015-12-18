@@ -1,0 +1,23 @@
+<!-- back -->
+<div class = "dayBack" id="wb_Shape2" style="position:absolute;left:%spx;top:341px;width:161px;height:219px;filter:alpha(opacity=90);-moz-opacity:0.90;opacity:0.90;z-index:5;">
+<a href=""><img class="hover" src="../../images/img0040_hover.png" alt="" style="border-width:0;width:161px;height:219px;"><span><img src="../../images/img0040.png" id="Shape2" alt="" style="border-width:0;width:161px;height:219px;"></span></a></div>
+
+<!-- place -->
+<div class = "dayPlace" id="wb_Text9" style="position:absolute;left:%spx;top:375px;width:47px;height:16px;z-index:6;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Place :</span></div>
+
+<!-- edit box for place -->
+<input class = "dayPlaceBox" type="text" id="Editbox4" style="position:absolute;left:%spx;top:372px;width:82px;height:18px;line-height:18px;z-index:8;" name="Editbox3" value=%s>
+
+<!-- hotel -->
+<div class = "hotel" id="wb_Text10" style="position:absolute;left:%spx;top:393px;width:140px;height:16px;z-index:7;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Hotel : %s</span></div>
+
+<!-- Book hotel link -->
+<div class = "bookHotel" id="wb_Text5" style="position:absolute;left:%spx;top:413px;width:68px;height:16px;z-index:9;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;"><a href="http://www.goibibo.com">Book Hotel</a></span></div>
+
+<!-- Book other hotel -->
+<div class = "bookOtherHotel" id="wb_Text6" style=
+"position:absolute;left:%spx;top:433px;width:123px;height:16px;z-index:10;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;"><a href="http://www.goibibo.com">Book Other Hotel</a></span></div>

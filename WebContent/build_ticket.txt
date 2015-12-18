@@ -1,0 +1,12 @@
+<!-- Departure ticket Back -->
+<div class = "ticketBack" id="wb_Shape4" style=
+"position:absolute;left:%spx;top:467px;width:106px;height:53px;filter:alpha(opacity=80);-moz-opacity:0.80;opacity:0.80;z-index:32;">
+<a href=""><img class="hover" src="../../images/img0046_hover.png" alt="" style="border-width:0;width:106px;height:53px;"><span><img src="../../images/img0046.png" id="Shape4" alt="" style="border-width:0;width:106px;height:53px;"></span></a></div>
+
+<!-- Departure ticket Text -->
+<div class = "ticketText" id="wb_Text20" style="position:absolute;left:%spx;top:475px;width:67px;height:16px;z-index:33;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">%s</span></div>
+
+<div class = "ticketBook" id="wb_Text23" style="position:absolute;left:%spx;top:493px;width:74px;height:16px;z-index:34;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;"><a href="http://www.goibibo.com">Book Ticket</a></span></div>
+

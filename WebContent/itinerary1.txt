@@ -1,0 +1,11 @@
+<div class = "itinerary" id="wb_Shape41" style="position:absolute;left:81px;top:%spx;width:367px;height:26px;filter:alpha(opacity=30);-moz-opacity:0.30;opacity:0.30;z-index:1;">
+<a href=""><img class="hover" src="../images/img0088_hover.png" alt="" style="border-width:0;width:367px;height:26px;"><span><img src="../images/img0088.png" id="Shape41" alt="" style="border-width:0;width:367px;height:26px;"></span></a></div>
+
+<div id="wb_Shape1" style="position:absolute;left:72px;top:%spx;width:%spx;height:372px;filter:alpha(opacity=30);-moz-opacity:0.30;opacity:0.30;z-index:6;">
+<img src="../images/img0001.png" id="Shape1" alt="" style="border-width:0;width:%spx;height:372px;"></div>
+
+<div class = "itineraryDays" id="wb_Text4" style="position:absolute;left:87px;top:%spx;width:67px;height:16px;z-index:8;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Days :%s</span></div> 	 
+
+<div class = "itineraryBudget" id="wb_Text6" style="position:absolute;left:322px;top:%spx;width:99px;height:16px;z-index:10;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Budget : %s</span></div>

@@ -1,0 +1,24 @@
+<!-- Title -->
+<div id="wb_TextArt1" style="position:absolute;left:20px;top:29px;width:224px;height:55px;z-index:22;">
+<img src="../images/img0087.png" id="TextArt1" alt="PLanIt!" title="PLanIt!" style="border-width:0;width:224px;height:55px;"></div>
+
+<div id="wb_Text93" style="position:absolute;left:240px;top:62px;width:253px;height:18px;z-index:23;text-align:left;">
+<span style="color:#A52A2A;font-family:'Palatino Linotype';font-size:13px;"><em>Plan your travel with ease...</em></span></div>
+
+<!-- Heading and navigation -->
+<div id="wb_Shape40" style="position:absolute;left:16px;top:0px;width:1030px;height:126px;filter:alpha(opacity=30);-moz-opacity:0.30;opacity:0.30;z-index:20;">
+<img src="../images/img0055.png" id="Shape40" alt="" style="border-width:0;width:1030px;height:126px;"></div>
+
+<div id="NavigationBar1" style="position:absolute;left:185px;top:99px;width:511px;height:25px;z-index:21;">
+<ul class="navbar">
+<li id="NavigationBar1_item0"><a href="../index.html"><img alt="" src="../images/img0056_over.gif" class="hover"><span><img alt="" src="../images/img0056.gif"></span></a></li>
+<li id="NavigationBar1_item1"><a href="../build1.html"><img alt="" src="../images/img0057_over.gif" class="hover"><span><img alt="" src="../images/img0057.gif"></span></a></li>
+<li id="NavigationBar1_item2"><a href="../search.html"><img alt="" src="../images/img0058_over.gif" class="hover"><span><img alt="" src="../images/img0058.gif"></span></a></li>
+<li id="NavigationBar1_item3"><a href="../share.html"><img alt="" src="../images/img0086_over.gif" class="hover"><span><img alt="" src="../images/img0086.gif"></span></a></li>
+</ul>
+</div>
+
+<!-- Search results heading -->
+<div id="wb_Text2" style="position:absolute;left:66px;top:176px;width:261px;height:76px;z-index:3;text-align:left;">
+<span style="color:#191970;font-family:'Comic Sans MS';font-size:27px;"><strong>Search Results </strong></span><span style="color:#000000;font-family:'Comic Sans MS';font-size:27px;"><strong><br></strong></span></div>
+

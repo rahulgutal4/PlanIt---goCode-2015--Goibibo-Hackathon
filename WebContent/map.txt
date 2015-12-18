@@ -1,0 +1,19 @@
+<!-- Map -->
+<div id="wb_FormR%s" style="position:absolute;left:%spx;top:%spx;width:359px;height:290px;z-index:52;">
+<form name="FormR%s" method="post" action="mailto:yourname@yourdomain.com" enctype="text/plain" id="FormR%s">
+<table border="0" cellpadding="0" cellspacing="3">
+<tr>
+    <td colspan="2">
+        <div id="distanceR%s">
+        </div>
+    </td>
+</tr>
+<tr>
+    <td>
+        <div id="mapR%s" style="width: 250px; height: 180px">
+        </div>
+    </td>
+</tr>
+</table>
+</form>
+</div>

@@ -1,0 +1,3 @@
+<!-- Heading -->
+<div class = "recommHead" id="wb_Text25" style="position:absolute;left:63px;top:%spx;width:672px;height:76px;z-index:54;text-align:left;">
+<span style="color:#191970;font-family:'Comic Sans MS';font-size:27px;"><strong><u>Recommended Places for %s days trip to %s </u></strong></span><span style="color:#000000;font-family:'Comic Sans MS';font-size:27px;"><strong><br></strong></span></div>

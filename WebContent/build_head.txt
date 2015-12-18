@@ -1,0 +1,12 @@
+<div id="wb_Image1" style="position:absolute;left:3px;top:136px;width:1086px;height:733px;z-index:0;">
+<img src="../../images/img0025.png" id="Image1" alt="" style="width:1086px;height:733px;"></div>
+
+<div id="wb_Shape9" style="position:absolute;left:14px;top:252px;width:1061px;height:449px;filter:alpha(opacity=30);-moz-opacity:0.30;opacity:0.30;z-index:1;">
+
+<img src="../../images/img0026.png" id="Shape9" alt="" style="border-width:0;width:1061px;height:449px;"></div>
+
+<div id="wb_Shape8" style="position:absolute;left:15px;top:0px;width:1056px;height:126px;filter:alpha(opacity=30);-moz-opacity:0.30;opacity:0.30;z-index:2;">
+<img src="../../images/img0027.png" id="Shape8" alt="" style="border-width:0;width:1056px;height:126px;"></div>
+
+<div id="wb_Text1" style="position:absolute;left:70px;top:178px;width:250px;height:35px;z-index:4;text-align:left;">
+<span style="color:#F5FFFA;font-family:'Comic Sans MS';font-size:24px;"><strong>Build My Itinerary</strong></span></div>

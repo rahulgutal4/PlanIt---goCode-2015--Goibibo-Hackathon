@@ -1,0 +1,17 @@
+
+
+<!-- Suggestion  -->
+<div class = "suggestion" id="wb_Shape5" style="position:absolute;left:%spx;top:%spx;width:167px;height:149px;filter:alpha(opacity=30);-moz-opacity:0.30;opacity:0.30;z-index:55;">
+<a href=""><img class="hover" src="../images/img0018_hover.png" alt="" style="border-width:0;width:167px;height:149px;"><span><img src="../images/img0018.png" id="Shape5" alt="" style="border-width:0;width:167px;height:149px;"></span></a></div>
+
+<!-- Suggestion Title -->
+<div id="wb_Text26" style="position:absolute;left:%spx;top:%spx;width:58px;height:16px;z-index:56;text-align:left;">
+<span style="color:#000000;font-family:Arial;font-size:13px;"><strong>%s</strong></span></div>
+
+<!-- Text Box -->
+<textarea class = "recommDesc" name="TextArea1" id="TextArea10" style="position:absolute;left:%spx;top:%spx;width:145px;height:86px;z-index:62;" rows="4" cols="18" readonly="readonly">%s
+</textarea>
+
+
+
+

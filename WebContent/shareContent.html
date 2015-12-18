@@ -1,0 +1,129 @@
+<body>
+
+<div id="wb_Form1" style="position:absolute;left:31px;top:214px;width:1006px;height:544px;z-index:27;">
+<form name="Form1" method="post" action="add1" enctype="application/json" id="Form1">
+
+<div id="wb_Text5" style="position:absolute;left:82px;top:26px;width:57px;height:16px;z-index:17;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Country :</span></div>
+<input type="text" id="Editbox1" style="position:absolute;left:141px;top:23px;width:85px;height:18px;line-height:18px;z-index:18;" name="country" value="" required="required" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f]*$">
+<div id="wb_Text26" style="position:absolute;left:81px;top:55px;width:57px;height:16px;z-index:19;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">State :</span></div>
+<input type="text" id="Editbox13" style="position:absolute;left:141px;top:53px;width:85px;height:18px;line-height:18px;z-index:20;" name="state" value="" required="required" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f]*$">
+<div id="wb_Text4" style="position:absolute;left:292px;top:26px;width:40px;height:32px;z-index:12;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Days :</span></div>
+<input type="number" id="Editbox3" style="position:absolute;left:355px;top:24px;width:63px;height:18px;line-height:18px;z-index:14;" name="days" value="" required="required" min="1">
+<div id="wb_Text6" style="position:absolute;left:291px;top:54px;width:55px;height:16px;z-index:13;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Budget :</span><span style="color:#000000;font-family:Arial;font-size:13px;"> </span></div>
+<input type="number" id="Editbox2" style="position:absolute;left:355px;top:51px;width:64px;height:18px;line-height:18px;z-index:15;" name="budget" value="" required="required" min="1">
+
+
+<input type="submit" id="Button2" name="" value="Save" style="position:absolute;left:471px;top:21px;width:80px;height:21px;z-index:23;">
+<input type="submit" id="Button3" name="" value="Add more" style="position:absolute;left:151px;top:505px;width:80px;height:21px;z-index:24;">
+
+<div id="onedetail">
+<div id="wb_Shape2" style="position:absolute;left:81px;top:88px;width:225px;height:402px;filter:alpha(opacity=50);-moz-opacity:0.50;opacity:0.50;z-index:0;">
+<img src="images/img0064.png" id="Shape2" alt="" style="border-width:0;width:225px;height:402px;"></div>
+<div id="wb_Text8" style="position:absolute;left:94px;top:107px;width:48px;height:16px;z-index:16;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Place : </span></div>
+<input type="text" id="place0" style="position:absolute;left:143px;top:104px;width:131px;height:18px;line-height:18px;z-index:11;" name="detail[0][place]" value="" required="required" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f0-9-]*$">
+<div id="wb_Text9" style="position:absolute;left:95px;top:136px;width:55px;height:16px;z-index:9;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Hotel : </span></div>
+<input type="text" id="hotelName0" style="position:absolute;left:143px;top:134px;width:129px;height:18px;line-height:18px;z-index:10;" name="detail[0][hotelName]" value="" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f0-9-]*$">
+<div id="wb_Text2" style="position:absolute;left:94px;top:164px;width:72px;height:16px;z-index:21;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Days :</span></div>
+<input type="number" id="day0" style="position:absolute;left:142px;top:162px;width:40px;height:18px;line-height:18px;z-index:22;" name="detail[0][day]" value="" required="required" min="1">
+<div id="wb_Text10" style="position:absolute;left:94px;top:191px;width:139px;height:16px;z-index:7;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Hotel Charges :</span><span style="color:#000000;font-family:Arial;font-size:13px;"> </span></div>
+<input type="number" id="hotelCharges" style="position:absolute;left:189px;top:189px;width:79px;height:18px;line-height:18px;z-index:8;" name="detail[0][hotelCharges]" value="" min="1">
+<div id="wb_Text11" style="position:absolute;left:95px;top:215px;width:141px;height:16px;z-index:6;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Places visited Nearby :</span></div>
+<textarea name="placesVisited0" id="TextArea1" style="position:absolute;left:96px;top:237px;width:192px;height:55px;z-index:5;" rows="2" cols="26"></textarea>
+<div id="wb_Text12" style="position:absolute;left:96px;top:302px;width:127px;height:16px;z-index:4;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Special attractions :</span></div>
+<textarea name="specialAtt0" id="TextArea2" style="position:absolute;left:97px;top:326px;width:190px;height:55px;z-index:3;" rows="2" cols="26"></textarea>
+<div id="wb_Text14" style="position:absolute;left:97px;top:387px;width:127px;height:16px;z-index:2;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Any comments :</span></div>
+<textarea name="details0" id="TextArea3" style="position:absolute;left:96px;top:410px;width:192px;height:61px;z-index:1;" rows="2" cols="26"></textarea>
+</div>
+
+<div id="twodetail">
+<div id="wb_Shape2" style="position:absolute;left:326px;top:88px;width:225px;height:402px;filter:alpha(opacity=50);-moz-opacity:0.50;opacity:0.50;z-index:0;">
+<img src="images/img0064.png" id="Shape2" alt="" style="border-width:0;width:225px;height:402px;"></div>
+<div id="wb_Text8" style="position:absolute;left:339px;top:107px;width:48px;height:16px;z-index:16;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Place : </span></div>
+<input type="text" id="place1" style="position:absolute;left:388px;top:104px;width:131px;height:18px;line-height:18px;z-index:11;" name="detail[0][place]" value="" required="required" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f0-9-]*$">
+<div id="wb_Text9" style="position:absolute;left:340px;top:136px;width:55px;height:16px;z-index:9;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Hotel : </span></div>
+<input type="text" id="hotelName1" style="position:absolute;left:388px;top:134px;width:129px;height:18px;line-height:18px;z-index:10;" name="detail[0][hotelName]" value="" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f0-9-]*$">
+<div id="wb_Text2" style="position:absolute;left:340px;top:164px;width:72px;height:16px;z-index:21;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Days :</span></div>
+<input type="number" id="day1" style="position:absolute;left:388px;top:162px;width:40px;height:18px;line-height:18px;z-index:22;" name="detail[0][day]" value="" required="required" min="1">
+<div id="wb_Text10" style="position:absolute;left:340px;top:191px;width:139px;height:16px;z-index:7;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Hotel Charges :</span><span style="color:#000000;font-family:Arial;font-size:13px;"> </span></div>
+<input type="number" id="hotelCharges1" style="position:absolute;left:434px;top:189px;width:79px;height:18px;line-height:18px;z-index:8;" name="detail[0][hotelCharges]" value="" min="1">
+<div id="wb_Text11" style="position:absolute;left:340px;top:215px;width:141px;height:16px;z-index:6;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Places visited Nearby :</span></div>
+<textarea name="placesVisited1" id="TextArea1" style="position:absolute;left:341px;top:237px;width:192px;height:55px;z-index:5;" rows="2" cols="26"></textarea>
+<div id="wb_Text12" style="position:absolute;left:340px;top:302px;width:127px;height:16px;z-index:4;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Special attractions :</span></div>
+<textarea name="specialAtt1" id="TextArea2" style="position:absolute;left:341px;top:326px;width:190px;height:55px;z-index:3;" rows="2" cols="26"></textarea>
+<div id="wb_Text14" style="position:absolute;left:340px;top:387px;width:127px;height:16px;z-index:2;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Any comments :</span></div>
+<textarea name="details1" id="TextArea3" style="position:absolute;left:341px;top:410px;width:192px;height:61px;z-index:1;" rows="2" cols="26"></textarea>
+</div>
+
+<div id="threedetail">
+<div id="wb_Shape2" style="position:absolute;left:571px;top:88px;width:225px;height:402px;filter:alpha(opacity=50);-moz-opacity:0.50;opacity:0.50;z-index:0;">
+<img src="images/img0064.png" id="Shape2" alt="" style="border-width:0;width:225px;height:402px;"></div>
+<div id="wb_Text8" style="position:absolute;left:584px;top:107px;width:48px;height:16px;z-index:16;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Place : </span></div>
+<input type="text" id="place1" style="position:absolute;left:633px;top:104px;width:131px;height:18px;line-height:18px;z-index:11;" name="detail[0][place]" value="" required="required" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f0-9-]*$">
+<div id="wb_Text9" style="position:absolute;left:584px;top:136px;width:55px;height:16px;z-index:9;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Hotel : </span></div>
+<input type="text" id="hotelName1" style="position:absolute;left:633px;top:134px;width:129px;height:18px;line-height:18px;z-index:10;" name="detail[0][hotelName]" value="" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f0-9-]*$">
+<div id="wb_Text2" style="position:absolute;left:584px;top:164px;width:72px;height:16px;z-index:21;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Days :</span></div>
+<input type="number" id="day1" style="position:absolute;left:633px;top:162px;width:40px;height:18px;line-height:18px;z-index:22;" name="detail[0][day]" value="" required="required" min="1">
+<div id="wb_Text10" style="position:absolute;left:584px;top:191px;width:139px;height:16px;z-index:7;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Hotel Charges :</span><span style="color:#000000;font-family:Arial;font-size:13px;"> </span></div>
+<input type="number" id="hotelCharges1" style="position:absolute;left:679px;top:189px;width:79px;height:18px;line-height:18px;z-index:8;" name="detail[0][hotelCharges]" value="" min="1">
+<div id="wb_Text11" style="position:absolute;left:584px;top:215px;width:141px;height:16px;z-index:6;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Places visited Nearby :</span></div>
+<textarea name="placesVisited1" id="TextArea1" style="position:absolute;left:584px;top:237px;width:192px;height:55px;z-index:5;" rows="2" cols="26"></textarea>
+<div id="wb_Text12" style="position:absolute;left:584px;top:302px;width:127px;height:16px;z-index:4;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Special attractions :</span></div>
+<textarea name="specialAtt1" id="TextArea2" style="position:absolute;left:584px;top:326px;width:190px;height:55px;z-index:3;" rows="2" cols="26"></textarea>
+<div id="wb_Text14" style="position:absolute;left:584px;top:387px;width:127px;height:16px;z-index:2;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Any comments :</span></div>
+<textarea name="details1" id="TextArea3" style="position:absolute;left:584px;top:410px;width:192px;height:61px;z-index:1;" rows="2" cols="26"></textarea>
+</div>
+
+<div id="fourdetail">
+<div id="wb_Shape2" style="position:absolute;left:816px;top:88px;width:225px;height:402px;filter:alpha(opacity=50);-moz-opacity:0.50;opacity:0.50;z-index:0;">
+<img src="images/img0064.png" id="Shape2" alt="" style="border-width:0;width:225px;height:402px;"></div>
+<div id="wb_Text8" style="position:absolute;left:829px;top:107px;width:48px;height:16px;z-index:16;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Place : </span></div>
+<input type="text" id="place3" style="position:absolute;left:878px;top:104px;width:131px;height:18px;line-height:18px;z-index:11;" name="detail[0][place]" value="" required="required" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f0-9-]*$">
+<div id="wb_Text9" style="position:absolute;left:829px;top:136px;width:55px;height:16px;z-index:9;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Hotel : </span></div>
+<input type="text" id="hotelName3" style="position:absolute;left:878px;top:134px;width:129px;height:18px;line-height:18px;z-index:10;" name="detail[0][hotelName]" value="" pattern="[A-Za-zÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f0-9-]*$">
+<div id="wb_Text2" style="position:absolute;left:829px;top:164px;width:72px;height:16px;z-index:21;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Days :</span></div>
+<input type="number" id="day3" style="position:absolute;left:878px;top:162px;width:40px;height:18px;line-height:18px;z-index:22;" name="detail[0][day]" value="" required="required" min="1">
+<div id="wb_Text10" style="position:absolute;left:829px;top:191px;width:139px;height:16px;z-index:7;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Hotel Charges :</span><span style="color:#000000;font-family:Arial;font-size:13px;"> </span></div>
+<input type="number" id="hotelCharges3" style="position:absolute;left:924px;top:189px;width:79px;height:18px;line-height:18px;z-index:8;" name="detail[0][hotelCharges]" value="" min="1">
+<div id="wb_Text11" style="position:absolute;left:829px;top:215px;width:141px;height:16px;z-index:6;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Places visited Nearby :</span></div>
+<textarea name="placesVisited3" id="TextArea1" style="position:absolute;left:829px;top:237px;width:192px;height:55px;z-index:5;" rows="2" cols="26"></textarea>
+<div id="wb_Text12" style="position:absolute;left:829px;top:302px;width:127px;height:16px;z-index:4;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Special attractions :</span></div>
+<textarea name="specialAtt3" id="TextArea2" style="position:absolute;left:829px;top:326px;width:190px;height:55px;z-index:3;" rows="2" cols="26"></textarea>
+<div id="wb_Text14" style="position:absolute;left:829px;top:387px;width:127px;height:16px;z-index:2;text-align:left;">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Any comments :</span></div>
+<textarea name="details3" id="TextArea3" style="position:absolute;left:829px;top:410px;width:192px;height:61px;z-index:1;" rows="2" cols="26"></textarea>
+</div>
+
+
+</form>
+</div>

@@ -1,0 +1,693 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>search results</title>
+<meta name="generator" content="WYSIWYG Web Builder 9 Trial Version - http://www.wysiwygwebbuilder.com">
+<style type="text/css">
+body
+{
+   margin: 0;
+   padding: 0;
+   background-color: #FFFFFF;
+   color: #000000;
+}
+</style>
+<style type="text/css">
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+</style>
+<style type="text/css">
+.itineraryBack a img
+{
+   position: absolute;
+}
+.itineraryBack span
+{
+   position: absolute;
+}
+.itineraryBack a .hover
+{
+   visibility: hidden;
+}
+.itineraryBack a:hover .hover
+{
+   visibility: visible;
+}
+.itineraryBack a:hover span
+{
+   visibility: hidden;
+}
+.itinerary a img
+{
+   position: absolute;
+}
+.itinerary span
+{
+   position: absolute;
+}
+.itinerary a .hover
+{
+   visibility: hidden;
+}
+.itinerary a:hover .hover
+{
+   visibility: visible;
+}
+.itinerary a:hover span
+{
+   visibility: hidden;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   border: 0px #696969 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+.itineraryTitle 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.itineraryTitle div
+{
+   text-align: left;
+}
+
+.itinerarySpec 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.itinerarySpec div
+{
+   text-align: left;
+}
+.itineraryPeople
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.itineraryPeople div
+{
+   text-align: left;
+}
+.itineraryBudget
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.itineraryBudget div
+{
+   text-align: left;
+}
+
+.day 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.day div
+{
+   text-align: left;
+}
+
+.place 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.place div
+{
+   text-align: left;
+}
+
+.hotel 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.hotel div
+{
+   text-align: left;
+}
+
+b_Text10 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.hotelCharges div
+{
+   text-align: left;
+}
+.placeToVisit
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.placeToVisit div
+{
+   text-align: left;
+}
+.specialAttr 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.specialAttr div
+{
+   text-align: left;
+}
+.anyComments
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+.anyComments div
+{
+   text-align: left;
+}
+.customize
+{
+   border: 0px #F5DEB3 solid;
+   background-color: #B0C4DE;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   -moz-box-shadow: 0px 0px 3px #000000;
+   -webkit-box-shadow: 0px 0px 3px #000000;
+   box-shadow: 0px 0px 3px #000000;
+}
+#Line5
+{
+   color: #A0A0A0;
+   background-color: #A0A0A0;
+   border-width: 0px;
+}
+#NavigationBar1 ul.navbar
+{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+#NavigationBar1 ul.navbar li
+{
+   height: 25px;
+   float: left;
+   margin: 0px 6px 0px 0px;
+}
+#NavigationBar1 ul.navbar li a
+{
+   display: block;
+   position: relative;
+}
+#NavigationBar1 ul.navbar li a img
+{
+   position: absolute;
+   z-index: 1;
+   border-width: 0px;
+}
+#NavigationBar1 ul.navbar li span
+{
+   display: block;
+   height: 25px;
+   position: absolute;
+   z-index: 2;
+}
+#NavigationBar1_item0 { width: 73px; }
+#NavigationBar1_item1 { width: 130px; }
+#NavigationBar1_item2 { width: 146px; }
+#NavigationBar1_item3 { width: 138px; }
+#NavigationBar1 a .hover
+{
+   visibility: hidden;
+}
+#NavigationBar1 a:hover .hover
+{
+   visibility: visible;
+}
+#NavigationBar1 a:hover span
+{
+   visibility: hidden;
+}
+#wb_Text93 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text93 div
+{
+   text-align: left;
+}
+.placeBox
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+.attrBox
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+.commentBox
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+
+
+
+#wb_Text13 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text13 div
+{
+   text-align: left;
+}
+#wb_Text15 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text15 div
+{
+   text-align: left;
+}
+#wb_Text16 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text16 div
+{
+   text-align: left;
+}
+#wb_Text17 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text17 div
+{
+   text-align: left;
+}
+#wb_Text18 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text18 div
+{
+   text-align: left;
+}
+#wb_Text19 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text19 div
+{
+   text-align: left;
+}
+#wb_Text20 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text20 div
+{
+   text-align: left;
+}
+#TextArea4
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+#TextArea5
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+#TextArea6
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+
+
+.days a img
+{
+   position: absolute;
+}
+.days span
+{
+   position: absolute;
+}
+.days a .hover
+{
+   visibility: hidden;
+}
+.days a:hover .hover
+{
+   visibility: visible;
+}
+.days a:hover span
+{
+   visibility: hidden;
+}
+
+
+
+#wb_Text21 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text21 div
+{
+   text-align: left;
+}
+#wb_Text22 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text22 div
+{
+   text-align: left;
+}
+#wb_Text23 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text23 div
+{
+   text-align: left;
+}
+#wb_Text24 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text24 div
+{
+   text-align: left;
+}
+#wb_Text29 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text29 div
+{
+   text-align: left;
+}
+#wb_Text30 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text30 div
+{
+   text-align: left;
+}
+#wb_Text31 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: left;
+}
+#wb_Text31 div
+{
+   text-align: left;
+}
+#TextArea7
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+#TextArea8
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+#TextArea9
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+.submitButton
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #B0C4DE;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   -moz-box-shadow: 0px 0px 2px #000000;
+   -webkit-box-shadow: 0px 0px 2px #000000;
+   box-shadow: 0px 0px 2px #000000;
+}
+
+.recommHead 
+{
+   background-color: transparent;
+   border: 0px #696969 solid;
+   padding: 0;
+   text-align: left;
+}
+.recommHead  div
+{
+   text-align: left;
+}
+
+.suggestion a img
+{
+   position: absolute;
+}
+.suggestion span
+{
+   position: absolute;
+}
+.suggestion a .hover
+{
+   visibility: hidden;
+}
+.suggestion a:hover .hover
+{
+   visibility: visible;
+}
+.suggestion a:hover span
+{
+   visibility: hidden;
+}
+
+.recommDesc
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: Arial;
+   font-size: 13px;
+   text-align: left;
+   resize: none;
+}
+
+.line
+{
+   color: #A0A0A0;
+   background-color: #A0A0A0;
+   border-width: 0px;
+}
+
+</style>
+</head>
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false&libraries=places"></script>
+<script type="text/javascript">
+var source, destination;
+var directionsDisplay;
+var directionsService = new google.maps.DirectionsService();
+google.maps.event.addDomListener(window, 'load', function () {
+    new google.maps.places.SearchBox(document.getElementById('txtSource'));
+    new google.maps.places.SearchBox(document.getElementById('txtDestination'));
+    directionsDisplay = new google.maps.DirectionsRenderer({ 'draggable': true });
+});
+ 
+function GetRoute(x,y,a,b) {
+    var mumbai = new google.maps.LatLng(18.9750, 72.8258);
+    var mapOptions = {
+        zoom: 7,
+        center: mumbai
+    };
+    map = new google.maps.Map(document.getElementById(b), mapOptions);
+    directionsDisplay.setMap(map);
+ 
+    source = x;
+    destination = y;
+ 
+    var request = {
+        origin: source,
+        destination: destination,
+        travelMode: google.maps.TravelMode.DRIVING
+    };
+    directionsService.route(request, function (response, status) {
+        if (status == google.maps.DirectionsStatus.OK) {
+            directionsDisplay.setDirections(response);
+        }
+    });
+ 
+    var service = new google.maps.DistanceMatrixService();
+    service.getDistanceMatrix({
+        origins: [source],
+        destinations: [destination],
+        travelMode: google.maps.TravelMode.DRIVING,
+        unitSystem: google.maps.UnitSystem.METRIC,
+        avoidHighways: false,
+        avoidTolls: false
+    }, function (response, status) {
+        if (status == google.maps.DistanceMatrixStatus.OK && response.rows[0].elements[0].status != "ZERO_RESULTS") {
+            var distance = response.rows[0].elements[0].distance.text;
+            var duration = response.rows[0].elements[0].duration.text;
+            var dvDistance = document.getElementById(a);
+           dvDistance.innerHTML = "";
+            dvDistance.innerHTML += "Distance: " + distance + "<br />";
+            dvDistance.innerHTML += "Duration:" + duration;
+ 
+        } else {
+            alert("Unable to find the distance via road.");
+        }
+    });
+}
+</script>

@@ -1,0 +1,18 @@
+<div class = "NavigationBar1" id="NavigationBar1" style="position:absolute;left:184px;top:99px;width:511px;height:25px;z-index:35;">
+<ul class="navbar">
+<li class = "NavigationBar1_item0" id="NavigationBar1_item0"><a href="../../index.html"><img alt="" src="../../images/img0028_over.gif" class="hover"><span><img alt="" src="../../images/img0028.gif"></span></a></li>
+<li class = "NavigationBar1_item1" id="NavigationBar1_item1"><a href="../../build1.html"><img alt="" src="../../images/img0029_over.gif" class="hover"><span><img alt="" src="../../images/img0029.gif"></span></a></li>
+<li class = "NavigationBar1_item2" id="NavigationBar1_item2"><a href="../../search.html"><img alt="" src="../../images/img0030_over.gif" class="hover"><span><img alt="" src="../../images/img0030.gif"></span></a></li>
+<li class = "NavigationBar1_item3" id="NavigationBar1_item3"><a href="../../share.html"><img alt="" src="../../images/img0031_over.gif" class="hover"><span><img alt="" src="../../images/img0031.gif"></span></a></li>
+</ul>
+</div>
+<div id="wb_TextArt1" style="position:absolute;left:19px;top:29px;width:224px;height:55px;z-index:36;">
+<img src="../../images/img0032.png" id="TextArt1" alt="PLanIt!" title="PLanIt!" style="border-width:0;width:224px;height:55px;"></div>
+<div class = "wb_Text2" id="wb_Text2" style="position:absolute;left:239px;top:62px;width:253px;height:18px;z-index:37;text-align:left;">
+<span style="color:#A52A2A;font-family:'Palatino Linotype';font-size:13px;"><em>Plan your travel with ease...</em></span></div>
+<div class = "SlideShow1" id="SlideShow1" style="position:absolute;left:17px;top:867px;width:1056px;height:140px;z-index:38;">
+<img class="image" style="width:1056px;height:140px;" src="../../images/trave620_2163858b.jpg" alt="Search our rich database of itineraries and plan your trips." title="Search our rich database of itineraries and plan your trips.">
+<img class="image" style="width:1056px;height:140px;display:none;" src="../../images/1.jpg" alt="Share your trip experiences/itineraries for others to take tips and plan their trips." title="Share your trip experiences/itineraries for others to take tips and plan their trips.">
+<img class="image" style="width:1056px;height:140px;display:none;" src="../../images/RTEmagicC_Sicilia__Tonnara_di_Scopello.jpg.jpg" alt="Build your itinerary and plan every aspect of your trip at one place," title="Build your itinerary and plan every aspect of your trip at one place,">
+<div class="caption"><div class="caption_background"><div class="caption_text">Search our rich database of itineraries and plan your trips.</div></div></div>
+</div>
